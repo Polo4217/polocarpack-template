@@ -12,7 +12,7 @@ Comes with GTR and a Custom Handling File made by myself :)
 
 
 
-Car Used in template
+Car used in template
 https://www.gta5-mods.com/vehicles/2015-nissan-gtr-nismo-yca-y97y
 
 Discord - Polo#7636 
